@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/rishabh11336/Sentimental-Analysis)
+![GitHub repo size](https://img.shields.io/github/repo-size/rishabh11336/Sentimental-Analysis)
 # Sentimental-Analysis
 Sentimental Analysis using Machine Learning Algorithms
 
